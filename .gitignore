@@ -102,3 +102,6 @@ ENV/
 
 #private info
 .json
+
+#idea
+.idea/
